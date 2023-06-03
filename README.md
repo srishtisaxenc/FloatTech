@@ -1,8 +1,7 @@
 # FloatTech
 FloatTech is an open source platform for developers to create enterprise level web application in MERN stack. This platform already contains components like user management, roles management, module management, access management, content management with production ready setup which helps developers to develop their application in minimum cost.
 # Features
-WaftEngine core features include:
-
+FloatTech core features include:
 1.User Manage and Login flow
 2.Role Manage
 3.Module Manage with Access level Definition
